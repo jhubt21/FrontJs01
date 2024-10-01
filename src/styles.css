@@ -1,3 +1,32 @@
 body {
   font-family: sans-serif;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #762ba5;
+}
+
+#app {
+  background-color: rgb(186, 156, 214);
+  border: #0d2024 1px solid;
+  padding: 20px;
+  border-radius: 8px;
+}
+input {
+  margin: 8px 0;
+  padding: 8px;
+}
+#btn-calcular {
+  background-color: #d1bde7;
+  color: #120122;
+  padding: 8px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+.resultados {
+  background-color: #ebebeb;
+  border: #cccccc 1px solid;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 16px;
 }
