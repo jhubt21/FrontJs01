@@ -15,6 +15,9 @@ function calcular() {
   const n1 = Number(numero1.value);
   const n2 = Number(numero2.value);
   soma.innerHTML = `A soma de ${n1} e ${n2} é : ${n1 + n2}`;
+  soma.innerHTML = `A soma de ${n1} e ${n2} é : ${n1 + n2}`;
+  soma.innerHTML = `A soma de ${n1} e ${n2} é : ${n1 + n2}`;
+  soma.innerHTML = `A soma de ${n1} e ${n2} é : ${n1 + n2}`;
 
   //return res;
 }
